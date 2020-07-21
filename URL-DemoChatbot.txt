@@ -1,2 +1,6 @@
 This URL is to try my chatbot :) 
 https://bot.dialogflow.com/f2a9acd3-524e-4847-b732-c7eba2c312a1
+this is the code to integerate web page with my chatbot:)
+<iframe width="350" height="430" allow="microphone;
+" src=" https://console.dialogflow.com/api-client/demo/embedded/f2a9acd3-524e-4847-b732-c7eba2c312a1">
+</iframe>
